@@ -14,7 +14,7 @@ window.settings = {
   // 背景
   background_url: 'https://files.catbox.moe/35ksmp.jpg',
   // crisp
-  crisp_id: '',
+  crisp_id: '457be0a0-b938-49ed-9eec-052c2a04285e',
   i18n: [
     'zh-CN',
     'en-US',
