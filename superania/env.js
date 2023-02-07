@@ -13,5 +13,5 @@ window.settings = {
   background_url: 'https://files.catbox.moe/35ksmp.jpg',
   logo: '',
   // 需与V2Board设置中的后台路径一致
-  secure_path: 'aniaania'
+  secure_path: 'superania'
 }
